@@ -1,0 +1,2 @@
+# Dizideki_elemanlarin_frekanslarini_bulan_program
+Dizideki_elemanlarin_frekanslarini_bulan_program
